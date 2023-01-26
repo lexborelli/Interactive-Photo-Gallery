@@ -1,3 +1,3 @@
-baguetteBox.run('.gallery');
+baguetteBox.run(".gallery");
 
-const search = new filter('search', 'data-caption'); 
+const search = new filter('search', 'data-caption');
