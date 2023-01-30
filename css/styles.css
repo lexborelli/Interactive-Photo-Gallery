@@ -7,8 +7,8 @@ html {
 }
 
 main {
-  display: inline-block;
-  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
   width: 100%;
 }
 
