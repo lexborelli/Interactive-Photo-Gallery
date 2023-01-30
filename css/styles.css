@@ -8,6 +8,7 @@ html {
 
 main {
   justify-content: center;
+  width: 100%; 
 }
 
 body {
@@ -16,11 +17,11 @@ body {
 
 #search {
   background-position: top;
-  width: 100%;
+  width: 80%;
   font-size: 16px;
   padding: 12px 15px;
   border: 1px solid #D3D3D3;
-  margin-bottom: 15px; 
+  margin-bottom: 15px;
 }
 
 .gallery {
