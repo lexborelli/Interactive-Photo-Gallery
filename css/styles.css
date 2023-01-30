@@ -7,13 +7,11 @@ html {
 }
 
 main {
-  margin: auto; 
+  display: inline-block;
+  vertical-align: middle;
   width: 100%;
 }
 
-body {
-  justify-content: center;
-}
 
 #search {
   background-position: top;
