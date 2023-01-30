@@ -11,6 +11,10 @@ main {
   width: 100%;
 }
 
+input{
+  margin-right: auto;
+  margin-left: auto;
+}
 
 #search {
   background-position: top;
