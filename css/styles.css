@@ -10,6 +10,10 @@ main {
   justify-content: center;
 }
 
+body {
+  justify-content: center;
+}
+
 .gallery {
   display: grid;
   max-width: 1000px;
