@@ -14,12 +14,14 @@ main {
 input#search {
   display: flex;
   width: 55%;
-  
+  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 #search {
   background-position: top;
-  width: 55%;
   font-size: 16px;
   padding: 12px 15px;
   border: 1px solid #D3D3D3;
