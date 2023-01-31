@@ -14,7 +14,7 @@ main {
 input#search {
   display: flex;
   width: 55%;
-  justify-content: center; 
+  
 }
 
 #search {
