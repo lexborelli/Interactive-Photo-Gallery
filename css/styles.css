@@ -13,8 +13,6 @@ main {
 
 input#search {
   display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 #search {
