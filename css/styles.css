@@ -15,6 +15,7 @@ input#search {
   display: flex;
   width: 55%;
   margin: auto;
+  margin-bottom: 20px;
 }
 
 #search {
@@ -22,7 +23,6 @@ input#search {
   font-size: 16px;
   padding: 12px 15px;
   border: 1px solid #D3D3D3;
-  margin-bottom: 15px;
 }
 
 .gallery {
